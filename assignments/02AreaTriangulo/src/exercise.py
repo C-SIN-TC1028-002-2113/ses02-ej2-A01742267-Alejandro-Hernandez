@@ -6,6 +6,5 @@ def main():
     print("El área es: ", area)
 
 
-
 if __name__ == '__main__':
     main()
